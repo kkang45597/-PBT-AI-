@@ -1,4 +1,4 @@
-# Spring Cloud Course
+# HRD-NET [기업맞춤 PBT] 클라우드 기반 AI 서비스
 
 ## 자바 교육
 
